@@ -2,7 +2,7 @@
     "name": "springimport/magento2-module-constantcontact",
     "description": "Includes configuration in admin and wrapping defaults Components.",
     "type": "magento2-module",
-    "version": "1.0.0",
+    "version": "0.1.1",
     "license": "MIT",
     "minimum-stability": "dev",
     "authors": [
