@@ -14,17 +14,8 @@ Wrapper for official Constant Contact SDK. Includes configuration in admin and w
 
 ## Installation
 
-Enable module:
 ```bash
-php -f bin/magento module:enable SpringImport_ConstantContact
-```
-
-Disable module:
-```bash
-php -f bin/magento module:disable SpringImport_ConstantContact
-```
-
-Update system:
-```bash
-php -f bin/magento setup:upgrade
+composer require springimport/magento2-module-constantcontact
+php bin/magento module:enable SpringImport_ConstantContact
+php bin/magento setup:upgrade
 ```
